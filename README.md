@@ -2,9 +2,14 @@
 <html>
  <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>EMPNO</th>
+    <th>ENAME</th>
+    <th>JOB</th>
+   <th>MGR</th>
+   <th>HIREDATE</th>
+   <th>SAL</th>
+   <th>COMM</th>
+   <th>DEPTNO</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>

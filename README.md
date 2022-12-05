@@ -11,6 +11,7 @@
    <th>COMM</th>
    <th>DEPTNO</th>
   </tr>
+  
   <tr>
    <td>7369</td>
    <td>SMITH</td>
@@ -20,12 +21,16 @@
    <td>800</td>
    <td></td>
    <td>20</td>
-
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>7499</td> 
+   <td>ALLEN</td>     
+   <td>SALESMAN</td>        
+   <td>7698</td> 
+   <td>20-FEB-81</td>       
+   <td>1600</td>        
+   <td>300</td>         
+   <td>30</td>
   </tr>
 </table>
 </html>

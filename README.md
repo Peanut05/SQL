@@ -32,5 +32,26 @@
    <td>300</td>         
    <td>30</td>
   </tr>
+  <tr>
+  <td>7521</td>
+  <td>WARD</td>
+  <td>SALESMAN</td>
+  <td>7698</td>
+  <td>22-FEB-81</td>
+  <td>1250</td>
+  <td>500</td>
+  <td>30</td>
+  </tr>
+  <tr>
+  <td>7566</td>
+  <td>JONES</td>
+  <td>MANAGER</td>
+  <td>7839</td>
+  <td>02-APR-81</td>
+  <td>2975</td>
+  <td></td>
+  <td>20</td>
+  </tr>
+  
 </table>
 </html>

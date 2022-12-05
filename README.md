@@ -12,9 +12,15 @@
    <th>DEPTNO</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+   <td>7369</td>
+   <td>SMITH</td>
+   <td>CLERK</td>
+   <td>7902</td>
+   <td>17-DEC-80</td>
+   <td>800</td>
+   <td></td>
+   <td>20</td>
+
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>

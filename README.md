@@ -54,22 +54,22 @@
   </tr>
   <tr>
   <td>7654</td>
-  <td>MARTIN</td>     
-  <td>SALESMAN</td>        
-  <td>7698</td> 
-  <td>28-SEP-81</td>       
-  <td>1250</td>       
-  <td>1400</td>         
+  <td>MARTIN</td>
+  <td>SALESMAN</td>
+  <td>7698</td>
+  <td>28-SEP-81</td>
+  <td>1250</td>
+  <td>1400</td>
   <td>30</td>
   </tr>
   <tr>
    <td>7698</td>
-   <td>BLAKE</td>        
-   <td>MANAGER</td>           
-   <td>7839</td>   
-   <td>01-MAY-81</td>         
-   <td>2850</td>        
-   <td>  </td>              
+   <td>BLAKE</td>
+   <td>MANAGER</td>
+   <td>7839</td>
+   <td>01-MAY-81</td>
+   <td>2850</td>
+   <td>  </td>
    <td>30</td>
   </tr>
 </table>

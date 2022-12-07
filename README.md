@@ -80,7 +80,7 @@
   <td>09-JUN-81</td>
   <td>2450</td>
   <td></td>
-  <td10</td>
+  <td>10</td>
   </tr>
 </table>
  <img src="https://media.tenor.com/images/04015df7773eef5518f4529cc2c48d67/tenor.gif">

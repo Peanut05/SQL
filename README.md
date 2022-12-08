@@ -112,6 +112,16 @@
   <td>0</td>
   <td>30</td>
   </tr>
+  <tr>
+  <td>7876</td>
+   <td>ADAMS</td>
+   <td>CLERK</td>
+   <td>7788</td>
+   <td>23-MAY-87</td>
+   <td>1100</td>
+   <td></td>
+   <td>20</td>
+  </tr>
 </table>
  <img src="https://media.tenor.com/images/04015df7773eef5518f4529cc2c48d67/tenor.gif">
 </html>

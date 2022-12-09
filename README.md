@@ -73,27 +73,27 @@
    <td>30</td>
   </tr>
   <tr>
-  <td>7782</td>
-  <td>CLARK</td>
-  <td>MANAGER</td>
-  <td>7839</td>
-  <td>09-JUN-81</td>
-  <td>2450</td>
-  <td></td>
-  <td>10</td>
+   <td>7782</td>
+   <td>CLARK</td>
+   <td>MANAGER</td>
+   <td>7839</td>
+   <td>09-JUN-81</td>
+   <td>2450</td>
+   <td></td>
+   <td>10</td>
   </tr>
   <tr>
-  <td>7788</td>
-  <td>SCOTT</td>
-  <td>ANALYST</td>
-  <td>7566</td>
-  <td>19-APR-87</td>
-  <td>3000</td>
-  <td></td>
-  <td>20</td>
+   <td>7788</td>
+   <td>SCOTT</td>
+   <td>ANALYST</td>
+   <td>7566</td>
+   <td>19-APR-87</td>
+   <td>3000</td>
+   <td></td>
+   <td>20</td>
   </tr>
   <tr>
-  <td>7839</td>
+   <td>7839</td>
    <td>KING</td>
    <td>PRESIDENT</td>
    <td></td>
@@ -103,14 +103,14 @@
    <td>10</td>
   </tr>
   <tr>
-  <td>7844</td>
-  <td>TURNER</td>
-  <td>SALESMAN</td>
-  <td>7698</td>
-  <td>08-SEP-81</td>
-  <td>1500</td>
-  <td>0</td>
-  <td>30</td>
+   <td>7844</td>
+   <td>TURNER</td>
+   <td>SALESMAN</td>
+   <td>7698</td>
+   <td>08-SEP-81</td>
+   <td>1500</td>
+   <td>0</td>
+   <td>30</td>
   </tr>
   <tr>
   <td>7876</td>
@@ -123,15 +123,15 @@
    <td>20</td>
   </tr>
   <tr>
-  <td>7900</td>
-  <td>JAMES</td>
-  <td>CLERK</td>
-  <td>7698</td>
-  <td>03-DEC-81</td>
-  <td>950</td>
-  <td></td>
-  <td>30</td>
-  </tr>
+   <td>7900</td>
+   <td>JAMES</td>
+   <td>CLERK</td>
+   <td>7698</td>
+   <td>03-DEC-81</td>
+   <td>950</td>
+   <td></td>
+   <td>30</td>
+   </tr>
   <tr>
   <td>7902</td>
    <td>FORD</td>
@@ -141,6 +141,15 @@
    <td>3000</td>
    <td></td>
    <td>20</td>
+  </tr>
+  <tr>
+   <td>7934</td>
+   <td>MILLER</td>
+   <td>CLERK</td>
+   <td>7782</td>
+   <td>23-JAN-82</td>
+   <td>1300</td>
+   <td>10</td>
   </tr>
 </table>
  <img src="https://media.tenor.com/images/04015df7773eef5518f4529cc2c48d67/tenor.gif">

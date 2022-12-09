@@ -5,11 +5,11 @@
     <th>EMPNO</th>
     <th>ENAME</th>
     <th>JOB</th>
-   <th>MGR</th>
-   <th>HIREDATE</th>
-   <th>SAL</th>
-   <th>COMM</th>
-   <th>DEPTNO</th>
+    <th>MGR</th>
+    <th>HIREDATE</th>
+    <th>SAL</th>
+    <th>COMM</th>
+    <th>DEPTNO</th>
   </tr>
   
   <tr>
@@ -33,34 +33,34 @@
    <td>30</td>
   </tr>
   <tr>
-  <td>7521</td>
-  <td>WARD</td>
-  <td>SALESMAN</td>
-  <td>7698</td>
-  <td>22-FEB-81</td>
-  <td>1250</td>
-  <td>500</td>
-  <td>30</td>
+   <td>7521</td>
+   <td>WARD</td>
+   <td>SALESMAN</td>
+   <td>7698</td>
+   <td>22-FEB-81</td>
+   <td>1250</td>
+   <td>500</td>
+   <td>30</td>
   </tr>
   <tr>
-  <td>7566</td>
-  <td>JONES</td>
-  <td>MANAGER</td>
-  <td>7839</td>
-  <td>02-APR-81</td>
-  <td>2975</td>
-  <td></td>
-  <td>20</td>
+   <td>7566</td>
+   <td>JONES</td>
+   <td>MANAGER</td>
+   <td>7839</td>
+   <td>02-APR-81</td>
+   <td>2975</td>
+   <td></td>
+   <td>20</td>
   </tr>
   <tr>
-  <td>7654</td>
-  <td>MARTIN</td>
-  <td>SALESMAN</td>
-  <td>7698</td>
-  <td>28-SEP-81</td>
-  <td>1250</td>
-  <td>1400</td>
-  <td>30</td>
+   <td>7654</td>
+   <td>MARTIN</td>
+   <td>SALESMAN</td>
+   <td>7698</td>
+   <td>28-SEP-81</td>
+   <td>1250</td>
+   <td>1400</td>
+   <td>30</td>
   </tr>
   <tr>
    <td>7698</td>
@@ -149,8 +149,10 @@
    <td>7782</td>
    <td>23-JAN-82</td>
    <td>1300</td>
+   <td></td>
    <td>10</td>
   </tr>
 </table>
  <img src="https://media.tenor.com/images/04015df7773eef5518f4529cc2c48d67/tenor.gif">
 </html>
+

@@ -139,6 +139,7 @@
    <td>7566</td>
    <td>03-DEC-81</td>
    <td>3000</td>
+   <td></td>
    <td>20</td>
   </tr>
 </table>

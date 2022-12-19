@@ -178,7 +178,7 @@
    <td>CHICAGO</td>
   </tr>
   <tr>
-   <td>40<td>
+   <td>40</td>
    <td>OPERATIONS</td>
    <td>BOSTON</td>
   </tr>

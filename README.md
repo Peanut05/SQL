@@ -167,6 +167,21 @@
    <td>ACCOUNTING</td>
    <td>NEW YORK</td>
   </tr>
+  <tr>
+   <td>20</td>
+   <td>RESEARCH</td>
+   <td>DALLAS</td>
+  </tr>
+  <tr>
+   <td>30</td>
+   <td>SALES</td>
+   <td>CHICAGO</td>
+  </tr>
+  <tr>
+   <td>40<td>
+   <td>OPERATIONS</td>
+   <td>BOSTON</td>
+  </tr>
  </table>
  <img src="https://media.tenor.com/images/04015df7773eef5518f4529cc2c48d67/tenor.gif">
 </html>

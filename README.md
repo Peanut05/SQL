@@ -154,13 +154,18 @@
    <td>10</td>
   </tr>
 </table>
- # DEPT Table :
+ <h3># DEPT Table :</h3>
  
  <table>
    <tr>
     <th>DEPTNO</th>
     <th>DNAME</th>
     <th>LOC</th>
+  </tr>
+  <tr>
+   <td>10</td>
+   <td>ACCOUNTING</td>
+   <td>NEW YORK</td>
   </tr>
  </table>
  <img src="https://media.tenor.com/images/04015df7773eef5518f4529cc2c48d67/tenor.gif">
